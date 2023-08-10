@@ -7,10 +7,10 @@
 ---
 
 ## I am a Web Developer:
-- I enjoy both physical and mental activities, with a passion for sports. 
-- Programming is another passion of mine, a puzzle-solving journey that sparks creativity.
-- Music always accompanies me, like the serenity of nature. A fast learner, I take on challenges in programming, sports and more.
-- The combination of sports, programming, music, nature and learning defines me.
+- :boxing_glove: I enjoy both physical and mental activities, with a passion for sports. 
+- :computer: Programming is another passion of mine, a puzzle-solving journey that sparks creativity.
+- :musical_note: Music always accompanies me, like the serenity of nature. A fast learner, I take on challenges in programming, sports and more.
+- :man: The combination of sports, programming, music, nature and learning defines me.
 
 ---
 
