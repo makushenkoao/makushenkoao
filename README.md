@@ -1,10 +1,18 @@
 ### Hi, everybody! My name is Anton
 
+---
+
 ![](https://komarev.com/ghpvc/?username=makushenkoao)
 
-## I am a Web Developer.
+---
 
-- 
+## I am a Web Developer:
+- I enjoy both physical and mental activities, with a passion for sports. 
+- Programming is another passion of mine, a puzzle-solving journey that sparks creativity.
+- Music always accompanies me, like the serenity of nature. A fast learner, I take on challenges in programming, sports and more.
+- The combination of sports, programming, music, nature and learning defines me.
+
+---
 
 ### My stack and tools
 
@@ -21,7 +29,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+---
+
 ### Connect with me:
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetiana-btv/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonmak2046@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-makushenko-53254a199/)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/makushenkoao)
